@@ -1,0 +1,1 @@
+Transforming the Beta distribution to a multivariate case can be done in many ways.  The mathematics for this particular distribution were done by [Olkin & Liu (2002)](http://www.sciencedirect.com/science/article/pii/S0167715203000488)

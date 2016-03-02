@@ -1,0 +1,2 @@
+In statistics, this one is called *pathological*: the Cauchy distribution has no moment generating function and its mean and variance are undefined.
+ How strange.

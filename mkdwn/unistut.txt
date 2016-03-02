@@ -1,0 +1,1 @@
+As the degrees of freedom increase, this distribution approaches the normal distribution. When William Gosset published this distribution in 1908, his employer required him to use a pseudonym. He chose *Student*. He should have chosen *Jedi Master*.

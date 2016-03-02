@@ -1,0 +1,1 @@
+The bivariate extension to the univariate uniform distribution, this boxy boy adjusts its size and height so that its volume remains exactly 1!

@@ -1,0 +1,1 @@
+Play around with this bivariate gamma distribution! Remember: when the scale is set to 2 this distribution is a bivariate chi-squared distribution.

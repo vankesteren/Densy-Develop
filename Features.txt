@@ -1,0 +1,42 @@
+Features:
+
+1.
+UI
+
+Create Loading/waiting gif v0.2
+CSS stylesheet for the input bars/toggles
+
+
+plot.ly
+Resizing 3d Plot.ly according to screen size v0.7
+Set dynamic scaling through scaling parameters v0.3
+Be able to select whether legend appears (mobile!) v0.3
+
+
+2.
+Server
+
+Order output files in the same way as the UI
+Code cannot exceed 80 columns
+
+#Comment code?
+
+
+3.
+Content
+Finish tree structure v0.4
+add structure for stories v0.2
+add story/interpretation of distribution functions (examples?) v0.5
+display mathematical function v0.5
+
+Expand about section
+
+Normalise bivariate gamma function.
+
+Add more distributions! vALL
+Poisson
+generalised beta!
+
+
+
+bivariate bimodal https://en.wikipedia.org/wiki/Special:ListFiles/Jorgenumata

@@ -1,0 +1,1 @@
+Both the exponential distribution (Shape  =  1, Scale = 1) and chi-squared distribution (Shape = df/2, Scale = 2) are special cases of the gamma distribution. Very cool.

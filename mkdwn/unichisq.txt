@@ -1,0 +1,1 @@
+If _k_ independent standard normal variables _X_ are squared and then summed into a new variable, the resulting variable has a Chi-Squared distribution with _k_ degrees of freedom. Now you know why it is called Chi-Squared and always positive!

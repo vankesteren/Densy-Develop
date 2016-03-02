@@ -1,0 +1,1 @@
+The binomial distribution is the discrete probability distribution of the number of successes in a sequence of independent Bernoulli trials (e.g. flipping a coin). Because the distribution is discrete, the graph below depicts what is called the *probability mass function*.

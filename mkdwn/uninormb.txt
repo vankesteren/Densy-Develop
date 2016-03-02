@@ -1,0 +1,2 @@
+What do you get when you put two normal distributions in a binomial distribution? Idea from [Ron Pearson](http://www.r-bloggers.com/a-brief-introduction-to-mixture-distributions/)
+

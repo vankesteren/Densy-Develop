@@ -1,0 +1,1 @@
+A uniform distribution, sometimes also known as a rectangular distribution (guess why!), is a distribution that has constant probability. All events x within the minimum and maximum have the same probability of occurring.

@@ -1,0 +1,1 @@
+The Beta distribution is a flexible distribution (play around!) that is defined on the interval between 0 and 1, perfect for expressing uncertainty about success probabilities and thus a great match for the binomial distribution.
