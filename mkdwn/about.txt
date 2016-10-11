@@ -1,8 +1,13 @@
-I built V0.1 of this app in one cold February 2016 night, after I had discovered how useful Shiny is in combination with Plotly. It had already been my wish to interactively visualise distributions since I first learned about them, as I always felt probability density functions were so intangible. I hope that this app will make you feel more comfortable with the various
-distribution functions that it includes!
+I built V0.1 of this app in one cold February 2016 night, after I had discovered 
+how useful Shiny is in combination with Plotly. It had already been my wish to 
+interactively visualise distributions since I first learned about them, as I 
+always felt probability density functions were so intangible. I hope that this 
+app will make you feel more comfortable with the various distribution functions 
+that it includes!
 
-You can send me an [email](mailto:erikjanvankesteren@protonmail.com) if you
-want to get in contact.
+Note that this app is in BETA, meaning it is not finished and you should not 
+expect any information to be correct and/or final. 
 
-
-(c) Erik-Jan van Kesteren, 2016
+You can send me an [email](mailto:erikjanvankesteren@gmail.com) if you
+want to get in contact. Also, you can [visit my blog](https://vankesteren.github.io/blog)
+to learn more about statistics if you're interested!
